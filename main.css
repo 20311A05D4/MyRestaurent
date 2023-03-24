@@ -116,7 +116,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard.light{
-    background: url('homepage.jpg') no-repeat;   
+    background: url('homepage_pic.jpg') no-repeat;   
      
     background-size: cover;
     -webkit-background-size: cover;
